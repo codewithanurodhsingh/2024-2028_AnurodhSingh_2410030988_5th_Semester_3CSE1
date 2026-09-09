@@ -1,4 +1,4 @@
-# Cognifyz IT Solutions C/C++ Programming Internship
+# C/C++ Programming Internship
 
 **C/C++ Programming Internship Program | Cognifyz IT Solutions Pvt. Ltd.**
 
